@@ -1,7 +1,7 @@
 #  **Presentaciò Final**
  continuació, presento una selecció dels projectes que he desenvolupat al llarg del curs, reflectint el meu aprenentatge i evolució com a professional IT
 
- 
+![](7_Github_contenido.jpg.optimal.jpg)
 
 ### 🚀 Projecte 1 · Introducció al treball professional:
 
