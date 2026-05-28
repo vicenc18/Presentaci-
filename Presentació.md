@@ -16,7 +16,7 @@ El mòdul de Projecte Intermodular actua com a client, fent el seguiment, superv
 - Gestió i seguiment de tasques
 - Creació de documentació bàsica
 
-🔗 [Ver repositorio](https://github.com/usuario/proyecto1)
+🔗 [Veure repositori](https://github.com/usuario/proyecto1)
 
 
 ### 🚀 Projecte 2 Consultoria EverPia:
@@ -35,7 +35,7 @@ Es treballa seguint metodologies com Kanban, amb seguiment constant del “clien
 - Resolució de casos tècnics reals (sistemes, xarxes, hosting, web…)
 - Presentació i defensa de projectes
 
-🔗 [Ver repositorio](https://github.com/usuario/proyecto2)
+🔗[Veure repositori](https://github.com/usuario/proyecto2)
 
 
 ### 🚀 Projecte 03. Sobreviure en una empresa IT: 
@@ -53,7 +53,7 @@ L’objectiu és aprendre a resoldre incidències, mantenir serveis actius i tre
 - Treball sota pressió i gestió del temps
 - Treball en equip i comunicació
 
-🔗 [Ver repositorio](https://github.com/usuario/proyecto3)
+🔗 [Veure repositori](https://github.com/usuario/proyecto3)
 
 
 ### 🚀 Projecte 04. Desafiament final:
@@ -74,7 +74,7 @@ L’objectiu és demostrar autonomia, criteri tècnic i capacitat per afrontar p
 - Organització amb metodologia Kanban
 - Treball autònom, resolució de problemes i presa de decisions
 
-🔗 [Ver repositorio](https://github.com/usuario/proyecto4)
+🔗[Veure repositori](https://github.com/usuario/proyecto4)
 
 
 ``
@@ -96,7 +96,7 @@ L’objectiu és integrar tots els coneixements adquirits i aprendre a plantejar
 - Treball en equip i presa de decisions
 - Desenvolupament del perfil professional i orientació de carrera
 
-🔗 [Ver repositorio](https://github.com/usuario/proyecto4)
+🔗[Veure repositori](https://github.com/usuario/proyecto4)
 
 ### 🚀 Projecte 06 Nexus:
 
@@ -115,7 +115,7 @@ L’objectiu és analitzar necessitats, escollir tecnologies adequades i present
 - Planificació de tasques i estimació del treball
 - Comunicació de solucions a un client
 
-🔗 [Ver repositorio](https://github.com/usuario/proyecto4)
+🔗[Veure repositori](https://github.com/usuario/proyecto4)
 
 ### 🚀Projecte 07 FoodLogístic S.A.
 
@@ -135,7 +135,7 @@ L’objectiu és oferir una proposta professional amb desplegament, costos i pla
 - Planificació de tasques i calendari d’implantació
 - Documentació tècnica i presentació al client
 
-🔗 [Ver repositorio](https://github.com/usuario/proyecto4)
+🔗 [Veure repositori](https://github.com/usuario/proyecto4)
 
 
 ### 🚀 Projecte 8. Connecta't al Futur:
@@ -154,4 +154,4 @@ L’objectiu és analitzar necessitats reals i proposar solucions tecnològiques
 - Proposta de solucions eficients i responsables
 - Treball en equip i enfocament professional
 
-🔗 [Ver repositorio](https://github.com/usuario/proyecto4)
+🔗[Veure repositori](https://github.com/usuario/proyecto4)
