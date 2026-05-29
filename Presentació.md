@@ -155,3 +155,28 @@ L’objectiu és analitzar necessitats reals i proposar solucions tecnològiques
 - Treball en equip i enfocament professional
 
 🔗[Veure repositori](https://github.com/usuario/proyecto4)
+
+Problemas que vaig tenir
+
+Durant el desenvolupament del projecte vaig trobar diverses dificultats relacionades amb l’ús de les eines de treball i l’adaptació als nous entorns.
+
+💻 Adaptació al treball amb GitHub
+
+Al principi em va costar adaptar-me a treballar amb GitHub, ja que no estava acostumat a utilitzar aquesta plataforma.
+Vaig necessitar temps per entendre el funcionament dels repositoris, els commits i la manera correcta de gestionar els projectes.
+
+🛠️ Canvi a Visual Studio
+
+Més endavant vaig començar a utilitzar Visual Studio, però vaig fer el canvi una mica tard.
+Això va provocar que em costés adaptar-me al nou entorn de treball i a les seves eines.
+
+⚠️ Problemes per pujar els treballs
+
+També vaig tenir problemes perquè des de Visual Studio no se’m pujaven correctament els treballs a GitHub.
+Aquest error em va fer perdre temps i vaig haver de buscar una solució.
+
+Finalment, vaig aconseguir solucionar-ho utilitzant els comandos que ens van ensenyar a classe.
+
+✅ Conclusió
+
+Tot i les dificultats, aquesta experiència em va ajudar a aprendre a utilitzar millor les eines de desenvolupament i a continuar treballant en el projecte sense més problemes.
